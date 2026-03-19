@@ -36,9 +36,11 @@ Custom dataset of 200 headlines:
 ## Results
 | Headline | Result | Confidence |
 |---|---|---|
-| NASA launched satellite | REAL | 75.3% |
-| Earth is flat NASA lying | FAKE | 78.5% |
-| Bleach cures diseases | FAKE | 82.1% |
+| NASA launched satellite to monitor climate | REAL | 60.7% |
+| Earth is flat NASA lying | FAKE | 60.4% |
+
+## Output Screenshot
+![Output](Output%20for%20FAKE%20NEWS%20DETECTOR%20code.png)
 
 ## Author
 siddeshsb
